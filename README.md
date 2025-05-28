@@ -2,15 +2,9 @@
 
 A fun, minimalistic endless runner game built with **React** and **Tailwind CSS**, inspired by the Chrome Dino Game. Control a little dino, jump over obstacles, and survive as long as possible!
 
----
-
 ## 🚀 Demo
 
 🎮 **Play Now:** [Live Demo](https://dino-game-flax.vercel.app/)
-
----
-
----
 
 ## 🎮 Features
 
@@ -21,8 +15,6 @@ A fun, minimalistic endless runner game built with **React** and **Tailwind CSS*
 - Simple sound effects for jump and game over
 - Background music that starts with the game
 
----
-
 ## ⌨️ Controls
 
 | Key       | Action             |
@@ -30,12 +22,8 @@ A fun, minimalistic endless runner game built with **React** and **Tailwind CSS*
 | ↑ / Space | Jump               |
 | R         | Restart after loss |
 
----
-
 ## 🛠️ Tech Stack
 
 - **React** (with hooks)
 - **Tailwind CSS** for styling
 - **HTML Audio API** for sound
-
----
